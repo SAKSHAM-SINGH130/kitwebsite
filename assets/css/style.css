@@ -390,7 +390,14 @@ a:focus, a:hover {
     -webkit-animation: 900ms cubic-bezier(0.2, 1, 0.22, 1) 0s normal none 1 running fadeInDown;
     animation: 900ms cubic-bezier(0.2, 1, 0.22, 1) 0s normal none 1 running fadeInDown;
 }
-
+.profilr-btn{
+    float: right;
+    background-color: var(--main-color);
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+}
 .sticky.is-sticky .main-menu li a {
     padding: 30px 15px;
 }
