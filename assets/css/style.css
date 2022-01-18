@@ -589,7 +589,9 @@ a:focus, a:hover {
     -o-transition: 0.4s;
     transition: 0.4s;
 }
-
+.profilr-btn:hover{
+   color: #fff;
+}
 .mobile-menu li.menu-item-has-children.active>.menu-expand i:before {
     -webkit-transform: rotate(0);
     -ms-transform: rotate(0);
