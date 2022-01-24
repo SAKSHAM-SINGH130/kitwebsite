@@ -1848,17 +1848,6 @@ button {
 }
 
 @media (max-width: 768px) {
-    footer {
-        padding: 80px 0px 20px 0px;
-    }
-    footer .footer-item {
-        border-bottom: 1px solid #343434;
-        margin-bottom: 30px;
-        padding-bottom: 30px;
-    }
-    footer .last-item {
-        border-bottom: none;
-    }
     .sub-header {
         display: none;
     }
