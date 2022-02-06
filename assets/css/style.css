@@ -1903,6 +1903,11 @@ button {
         font-size: 25px;
     }
 }
+@media (min-width: 992px) {
+    .custom-container {
+        max-width: 1140px;
+    }
+}
 @media (min-width: 1200px) {
     .custom-container {
         max-width: 1200px;
