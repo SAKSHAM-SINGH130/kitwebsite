@@ -1844,6 +1844,9 @@ button {
 /* End header CSS */
 
 @media (max-width: 992px) {
+    .sub-header {
+        display: none;
+    }
     .news-section {
         margin-left: 0px !important;
     }
@@ -1863,9 +1866,7 @@ button {
 }
 
 @media (max-width: 768px) {
-    .sub-header {
-        display: none;
-    }
+
     .drop-down-2 .submenu-2 {
         position: static;
         margin-top: 15px;
