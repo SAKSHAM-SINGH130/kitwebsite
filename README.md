@@ -33,7 +33,6 @@ https://saksham-singh130.github.io/kitwebsite/
 | ----------------- | ------------------------------------------------------------------ |
 | Primary Color | ![#26558F](https://via.placeholder.com/10/26558F?text=+) #26558F |
 | Seconry Color | ![#17375E](https://via.placeholder.com/10/17375E?text=+) #17375E |
-| 
 
 ## Features
 
